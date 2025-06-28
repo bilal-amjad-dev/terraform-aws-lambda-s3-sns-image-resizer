@@ -1,0 +1,1 @@
+# terraform-aws-lambda-s3-sns-image-resizer
